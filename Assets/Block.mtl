@@ -1,0 +1,5 @@
+newmtl Block
+map_Kd BrickTexture.png
+Kd 1 0 0
+d 1
+
